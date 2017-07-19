@@ -1,0 +1,20 @@
+Name:SysCheck II
+Platform:Atari 8-bit (XL/XE)
+Released:ABBUW HW Compo 2014
+Developer:Juergen van Radecke
+Players:-
+Controller:Keyboard
+Extras:Alt OS, RAM Expansion (512kB)
+Description:
+Het project 'Sys-Check II' behaalde de derde plaats in de ABBUC Hardware Competitie van 2014.
+ 
+De Sys-Check II plug je in de PBI poort van een Atari XL, of in de cartridge + ECI poort van een Atari XE. Daarna kun je, zonder de computer te hoeven openen, het geheugen en de OS ROM testen. Mocht je een 600XL willen testen, dan dient deze wel voorzien te zijn van 64kB RAM, anders geeft de Sys-Check een foutmelding.
+
+De Sys-Check is na de ABBUC competitie doorontwikkeld en kan inmiddels ook gebruikt worden als geheugen uitbreiding en de 4 ROM slots kun je gebruiken om eigen OS ROMS in te flashen.
+
+Handige features van de Sys-Check II v2.2 op een rij:
+ o Cartridge passthrough poort (handig als je een Atari XE gebruikt)
+ o 512k Geheugen uitbreiding voor de Atari
+ o OS ROMs (4) door gebruiker te flashen
+ o Geheugen en OS test zonder machine te hoeven openen
+        En direct informatie welke RAM chip defect is.

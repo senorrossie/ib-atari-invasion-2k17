@@ -1,0 +1,2 @@
+GAME:Multi-Dash
+Dummy Player,1

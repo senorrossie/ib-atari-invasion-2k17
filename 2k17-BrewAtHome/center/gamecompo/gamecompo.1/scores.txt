@@ -1,0 +1,2 @@
+GAME:Lost in Space
+Dummy Player,1
